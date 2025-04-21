@@ -1,0 +1,6 @@
+email-validator
+fastapi
+uvicorn
+sqlalchemy
+pydantic[dotenv]
+psycopg2-binary
